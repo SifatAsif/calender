@@ -1,0 +1,58 @@
+*{
+	margin: 0px 0px 10px 10px;
+	padding: 5px;
+}
+p{
+	font-style: oblique;
+	color: rgb(143, 12, 12);
+}
+p1{
+	padding: 0px;
+	margin: 0;
+	color: rgb(84, 14, 102);
+}
+
+table{
+	background-color:rgba(255, 242, 124, 0.596);
+	color: rgb(84, 14, 102);
+	border-radius: 5px;
+	text-align:center;
+	padding: 0px 5px 0px 5px;
+}
+tr{
+	border: none;	
+}
+.ghum{
+	box-sizing: border-box;
+	color: rgb(143, 12, 12);
+}
+.ghum:hover{
+	color: rgb(117, 8, 180);
+	border-radius: 5px;
+	box-shadow: -2px 3px 10px 0px;
+}
+.high :hover{
+	background-color:rgba(51, 2, 163, 0.247);
+	color:black;
+	border-radius: 5px;
+}
+.low :hover{
+	background-color: rgba(51, 2, 163, 0.247);
+	color:black;
+	border-radius: 5px;
+}
+.mid :hover{
+	background-color: rgba(51, 2, 163, 0.247);
+	color:black;
+	border-radius: 5px;
+}
+.eee :hover{
+	background-color: rgba(51, 2, 163, 0.247);
+	color:black;
+	border-radius: 5px;
+}
+.maro :hover{
+	background-color: rgba(51, 2, 163, 0.247);
+	color:black;
+	border-radius: 5px;
+}
